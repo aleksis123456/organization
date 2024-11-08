@@ -1,16 +1,16 @@
 {
     "organizations": [
         {
-            "name": "lmt",
-            "adress": "Sporta 5",
-            "id": "12",
-            "contacts": [
-                {
-                    "name": "nik",
-                    "adress": "kkk",
-                    "id": "15"
-                }
-            ]
+            "name": "bite",
+            "adress": "saules iela",
+            "id": "4455",
+            "contacts": []
+        },
+        {
+            "name": "aleksa",
+            "adress": "uwu",
+            "id": "46700",
+            "contacts": []
         }
     ]
 }
